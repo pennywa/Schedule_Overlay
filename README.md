@@ -18,7 +18,7 @@ Schedule Overlay allows students, educators, and professionals to merge distinct
   * Manually insert weekly events with flexible day selection and precise time ranges.
   * Live inline editing and deletion panel in the sidebar with immediate calendar re-rendering.
 * **Snapshot & Preset Manager:** Save, name, load, and delete up to 10 distinct schedule presets directly within session memory.
-* **High-Fidelity PDF Export:** Generate and download a formatted, printable weekly calendar PDF matching your active configuration.
+* **PDF Export:** Generate and download a formatted, printable weekly calendar PDF matching your active configuration.
 * **Configurable Grid Layout:** Toggle calendar views between Monday-start and Sunday-start formats.
 
 ---
